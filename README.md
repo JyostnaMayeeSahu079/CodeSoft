@@ -1,4 +1,3 @@
-```markdown
 # CodeSoft Internship Projects 🚀
 
 This repository contains all the projects and tasks completed during my CodeSoft Internship Program.
@@ -46,7 +45,6 @@ The objective of this internship is to improve full-stack development skills by 
 
 ## 👩‍💻 Author
 
-Jyostnamayee Sahu
+Jyostna Mayee Sahu
 
 ---
-```
