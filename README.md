@@ -12,7 +12,11 @@ CodeSoft
 │ ├── backend
 │ ├── frontend
 │ └── README.md
-
+├── Task-2-Tic-Tac-Toe/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│   └── README.md
 ---
 
 ## ✅ Completed Tasks
@@ -36,6 +40,28 @@ A full-stack AI chatbot application developed using React.js and Node.js that pr
 - CSS
 
 ---
+
+### 🤖 Task 2 - Tic Tac Toe AI
+
+Developed an AI-powered Tic Tac Toe game using HTML, CSS, and JavaScript with the Minimax algorithm for unbeatable AI gameplay, dynamic background effects, responsive design, and an interactive modern user interface.
+
+#### Features
+
+- Unbeatable AI using Minimax Algorithm
+- Beautiful and responsive UI
+- AI Thinking animation
+- Dynamic background changes
+- Restart Game option
+- Smooth animations
+
+#### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Minimax Algorithm
+
+
 
 ## 🎯 Internship Objective
 
