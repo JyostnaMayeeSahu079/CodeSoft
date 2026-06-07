@@ -61,7 +61,7 @@ Developed an AI-powered Tic Tac Toe game using HTML, CSS, and JavaScript with th
 - JavaScript
 - Minimax Algorithm
 - 
-### 🤖 Task 3 - Face Detection Web Application
+### 🤖 Task 3 - Face Detection Recognition AI
 Developed a full-stack Face Detection and Recognition AI Web Application using Python, Flask, OpenCV, HTML, and CSS. The application allows users to upload images and automatically detects human faces using Haar Cascade classifiers. Detected faces are highlighted with bounding boxes and displayed through an interactive web interface.
 
 #### 🛠 Technologies Used
