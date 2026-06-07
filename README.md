@@ -17,7 +17,14 @@ CodeSoft
 │   ├── style.css
 │   └── script.js
 │   └── README.md
----
+├──Task-3-Face-Detection/
+├── app.py
+├── uploads/
+├── static/
+│   └── style.css
+└── templates/
+|    └── index.html
+|---
 
 ## ✅ Completed Tasks
 
