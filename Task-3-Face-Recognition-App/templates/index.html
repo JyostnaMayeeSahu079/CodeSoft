@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face Detection AI</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static',
+          filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+<h1>😀 Face Detection And Recognition AI</h1>
+
+<form action="/detect"
+      method="POST"
+      enctype="multipart/form-data">
+
+<input type="file"
+       name="image"
+       required>
+
+<button type="submit">
+Detect Faces
+</button>
+
+</form>
+
+{% if result %}
+
+<h2>{{count}} Face(s) Detected</h2>
+
+<img src="{{result}}">
+
+{% endif %}
+
+</div>
+
+</body>
+</html>
