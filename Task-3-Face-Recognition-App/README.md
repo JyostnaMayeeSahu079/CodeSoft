@@ -48,16 +48,18 @@ python app.py
 ```
 
 Open:
-![Uploading Screenshot 2026-06-07 111755.png…]()
-<img width="1590" height="413" alt="Screenshot 2026-06-07 111755" src="https://github.com/user-attachments/assets/fb117272-5409-4d5a-8147-504718ce6be7" />
-
-
-
 ```text
 http://127.0.0.1:5000
 ```
 
 ## 🎯 Output
+<img width="1200" height="500" alt="Screenshot 2026-06-07 111755" src="https://github.com/user-attachments/assets/fb117272-5409-4d5a-8147-504718ce6be7" />
+
+
+<img width="1200" height="500" alt="Screenshot 2026-06-07 112029" src="https://github.com/user-attachments/assets/d56fb12d-89e8-4598-ac27-5cb09a802341" />
+
+<img width="1047" height="844" alt="Screenshot 2026-06-07 124222" src="https://github.com/user-attachments/assets/30c06778-e11b-4324-b3c4-40fab5d582c0" />
+
 
 
 
